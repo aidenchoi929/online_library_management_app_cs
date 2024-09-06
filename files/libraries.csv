@@ -1,0 +1,16 @@
+What,ID,Type,Title,Category,Language,Author,Year Published,Audio Format
+Periodical,1234-5678,ISSN,Journal of Modern Physics,Science,English,John Doe,2020,N/A
+Periodical,2345-6789,ISSN,The Art Review,Arts,English,Jane Smith,2018,N/A
+Periodical,3456-7890,ISSN,Medical Insights,Medicine,English,Dr. Emily Stone,2021,N/A
+Periodical,4567-8901,ISSN,Tech Trends,Technology,English,Robert Johnson,2019,N/A
+Periodical,5678-9012,ISSN,Historical Quarterly,History,English,Laura Brown,2017,N/A
+Book,978-0-14-044913-6,ISBN,The Odyssey,Classics,English,Homer,1996,N/A
+Book,978-0-385-52881-2,ISBN,The Road,Fiction,English,Cormac McCarthy,2006,N/A
+Audiobook,978-0-399-15928-5,ISBN,Educated,Memoir,English,Tara Westover,2018,MP3
+Book,978-0-452-28423-4,ISBN,Brave New World,Science Fiction,English,Aldous Huxley,1932,N/A
+Book,978-0-7432-7356-5,ISBN,The Da Vinci Code,Mystery,English,Dan Brown,2003,N/A
+Audiobook,978-1-250-12007-9,ISBN,The Silent Patient,Thriller,English,Alex Michaelides,2019,AAC
+Audiobook,978-1-4391-4866-0,ISBN,Big Little Lies,Fiction,English,Liane Moriarty,2014,WMA
+Audiobook,978-1-5011-8756-6,ISBN,Becoming,Biography,English,Michelle Obama,2018,MP4
+Audiobook,978-1-984877-92-2,ISBN,Where the Crawdads Sing,Fiction,English,Delia Owens,2018,FLAC
+Book,978-3-16-148410-0,ISBN,The Art of Computer Programming,Computer Science,English,Donald E. Knuth,1968,N/A
